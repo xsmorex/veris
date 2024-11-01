@@ -1,3 +1,5 @@
+NextJS 14 based app that uses server components in order to display the artworks and generate their NFT certificates. 
+
 
 ## Getting Started
 
